@@ -1,6 +1,6 @@
 {
-  "name": "blog",
-  "short_name": "blog",
+  "name": "byuads.agency",
+  "short_name": "byuads.agency",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",

@@ -18,6 +18,9 @@
   "eslintIgnore": [
     "build/*"
   ],
+  "resolutions": {
+    "serialize-javascript":"^2.1.1"
+  },
   "devDependencies": {
     "eslint": "^4.9.0",
     "eslint-config-synacor": "^2.0.2",
